@@ -47,4 +47,5 @@ else:
 # MITM
 # ARP Poison
 # sniffing
+# sidejacking
 # No authenticacion - use SSL with self certs??
