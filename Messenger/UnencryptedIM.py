@@ -41,3 +41,10 @@ elif(len(sys.argv) == 3 and sys.argv[1] == "-c"):
 else:
     print ('usage: UnencryptedIM -s|-c hostname')
     sys.exit()
+
+# VECTORS
+#
+# MITM
+# ARP Poison
+# sniffing
+# No authenticacion - use SSL with self certs??
